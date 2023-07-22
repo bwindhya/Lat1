@@ -11,6 +11,6 @@ def print_halo(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_halo('PyCharm')
+    print_halo('Keep Up a Good Learning')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
