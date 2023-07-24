@@ -11,6 +11,6 @@ def print_halo(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_halo('Keep Up a Good Learning')
+    print_halo('Do Not Forget Your Main JobDesk')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
